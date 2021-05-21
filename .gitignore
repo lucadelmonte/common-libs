@@ -1,0 +1,12 @@
+.idea/
+venv/
+*.egg-info
+.cache
+*.pyc
+htmlcov
+.coverage
+*/wheelhouse
+*.sql
+*/__pycache__/
+*/.env
+.vscode/
